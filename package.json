@@ -1,0 +1,23 @@
+{
+  "name": "background-generator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/su-rajawale/background-generator.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/su-rajawale/background-generator/issues"
+  },
+  "homepage": "https://github.com/su-rajawale/background-generator#readme"
+  "homepage": "https://github.com/su-rajawale/background-generator"
+  "dependencies": {
+    "lodash": "^3.5.2"
+  }
+}
